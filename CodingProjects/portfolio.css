@@ -1,0 +1,30 @@
+.boxone{
+    display: flex;
+    align-items: center;
+  
+
+}
+.boxone ul{
+display: flex;
+padding: 10px;
+
+}
+.boxone ul li{
+    list-style: none;
+    padding: 10px;
+    font-size: 18px;
+    
+  
+}
+.boxone ul li a{
+   text-decoration: none;
+   color: black;
+  
+}
+.n01:hover{
+color: brown;
+}
+ 
+.lilboxone{
+   margin-left: 900px;
+}
